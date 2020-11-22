@@ -1,4 +1,4 @@
-###Weighted Undirected Graph Implementation
+# Weighted Undirected Graph Implementation
 
 - This Library contains implementations of Undirected Weighted Graph structure.
 
@@ -14,8 +14,8 @@
 Algorithms implemented inside: object initialization, graph copy, connected-graph check, distance between to connected nodes at the graph+the path itself,
 export the graph as a file to some folder, loading a file to initialize the graph.
 
--WeightComp
-a comparator ive implemented and built in order to be able to implement PriorityQueue.
+- WeightComp
+a comparator i've implemented and built in order to be able to implement PriorityQueue.
 
 ive based my JUnit Tests on the tests who were on our course's gitHub.
 
